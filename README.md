@@ -22,3 +22,8 @@ python sender.py
 ```
 
 Results will be saved in files match_state.json and match_score.json.
+
+Run the client script:
+```bash
+python -m unittest -v test
+```
