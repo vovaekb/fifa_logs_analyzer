@@ -1,0 +1,77 @@
+[
+    {
+        "score": {
+            "home_score": 0,
+            "away_score": 0
+        },
+        "period_scores": [
+            {
+                "number": 0,
+                "home_score": 0,
+                "away_score": 0
+            }
+        ]
+    },
+    {
+        "score": {
+            "home_score": 0,
+            "away_score": 1
+        },
+        "period_scores": [
+            {
+                "number": 0,
+                "home_score": 0,
+                "away_score": 1
+            }
+        ]
+    },
+    {
+        "score": {
+            "home_score": 0,
+            "away_score": 1
+        },
+        "period_scores": [
+            {
+                "number": 0,
+                "home_score": 0,
+                "away_score": 1
+            }
+        ]
+    },
+    {
+        "score": {
+            "home_score": 1,
+            "away_score": 2
+        },
+        "period_scores": [
+            {
+                "number": 0,
+                "home_score": 0,
+                "away_score": 1
+            },
+            {
+                "number": 1,
+                "home_score": 1,
+                "away_score": 2
+            }
+        ]
+    },
+    {
+        "score": {
+            "home_score": 1,
+            "away_score": 2
+        },
+        "period_scores": [
+            {
+                "number": 0,
+                "home_score": 0,
+                "away_score": 1
+            },
+            {
+                "number": 1,
+                "home_score": 1,
+                "away_score": 2
+            }
+        ]
+    }
+]
