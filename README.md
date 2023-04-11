@@ -21,4 +21,4 @@ Run the client script:
 python sender.py
 ```
 
-Results will be saved in file ...
+Results will be saved in files match_state.json and match_score.json.
